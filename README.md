@@ -2,7 +2,7 @@
 
 I'm Ali Tabesh - More about me at [alitabesh.ir](https://ali.tabesh.ir)
 
-[![Singleton11's github stats](https://github-readme-stats.vercel.app/api?username=alty-ir)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alty-ir&hide=TeX&layout=compact)
+[![Singleton11's github stats](https://github-readme-stats.vercel.app/api?username=alty-ir&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alty-ir&hide=TeX&layout=compact&count_private=true&theme=nightowl)
 
 
 
