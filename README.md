@@ -1,8 +1,46 @@
-### Hi there 👋
+# 👋 Hi, I'm Ali Tabesh
 
-I'm Ali Tabesh - More about me at [alitabesh.ir](https://alitabesh.ir)
+I'm a backend developer with a strong focus on building scalable and secure web applications. My experience spans modern backend technologies, cloud-native deployments, and cross-functional team leadership. Passionate about digital innovation and data-driven solutions, I aim to contribute to transformative tech for social and environmental impact.
 
-[![Singleton11's github stats](https://github-readme-stats.vercel.app/api?username=alty-ir&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alty-ir&hide=TeX&layout=compact&count_private=true&theme=nightowl)
+---
+
+## 💼 About Me
+
+- 🔧 Backend Developer
+- 🌍 Based in Iran 🇮🇷 | Open to global remote work
+- 🎓 Bachelor's Degree in **Computer Engineering**
+- 🎯 Focus: .NET Core, Serverless, Docker, Kubernetes, CI/CD  
+- 🌐 Frontend Familiarity: Vue.js, Nuxt.js, React, Next.js
+  
+---
+
+## 🧠 Skills & Technologies
+
+- **Languages:** C#, Python, SQL
+- **Frameworks:** ASP.NET Core, Entity Framework Core, Django
+- **Databases:** SQL Server, PostgreSQL
+- **Frontend:** Vue.js, Nuxt.js, React, Next.js (project management + integration)
+- **Tools:** Docker, Kubernetes, OpenFaaS, GitHub Actions, Linux, CI/CD pipelines
+
+---
+
+## 📄 Resume
+
+You can download my latest resume here:  
+[📎 Download Resume (PDF)](https://github.com/alty-ir/Resume/releases/download/latest/main.pdf)
+
+---
+
+## 📬 Let's Connect
+
+Feel free to reach out if you're interested in collaboration, open roles, or just want to connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AliTabesh-blue?logo=linkedin)](https://linkedin.com/in/alitabesh)  
+📧 Email: hi@alitabesh.ir
+
+---
+
+> *“Tech for good. Code with purpose.”*
 
 
 
