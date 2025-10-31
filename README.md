@@ -36,7 +36,7 @@ You can download my latest resume here:
 Feel free to reach out if you're interested in collaboration, open roles, or just want to connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AliTabesh-blue?logo=linkedin)](https://linkedin.com/in/alitabesh)  
-📧 Email: hi@alitabesh.ir
+📧 Email: hi@alitabesh.dev
 
 ---
 
