@@ -7,7 +7,7 @@ I'm a backend developer with a strong focus on building scalable and secure web 
 ## 💼 About Me
 
 - 🔧 Backend Developer
-- 🌍 Based in Iran 🇮🇷 | Open to global remote work
+- 🌍 Based in Italy 🇮🇹 | Open to global remote work
 - 🎓 Bachelor's Degree in **Computer Engineering**
 - 🎯 Focus: .NET Core, Serverless, Docker, Kubernetes, CI/CD  
 - 🌐 Frontend Familiarity: Vue.js, Nuxt.js, React, Next.js
